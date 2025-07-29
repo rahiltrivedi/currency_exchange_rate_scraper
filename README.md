@@ -17,7 +17,7 @@ This project is a Python-based web scraper that extracts live foreign exchange r
 
 ## 🗂️ Project Structure
 
-currency_scraper_project/
+currency_exchange_rate_scraper/
 - │
 - ├── currency_scraper/
 - - │ └── scraper.py # Core scraping and visualization logic
